@@ -96,15 +96,4 @@ This analysis highlights the importance of multiple health indicators in predict
 - Analyze additional health markers for deeper insights.
 
 ---
-
-### **Repository Structure**
-```
-📂 project-repo
- ├── 📄 README.md   # Overview of the analysis
- ├── 📊 dataset.csv  # Health dataset used in analysis
- ├── 📜 analysis.R   # R code for statistical modeling
- ├── 📊 figures/     # Visualization outputs
- └── 📄 report.pdf   # Full research report
-```
-
 **For questions or contributions, feel free to open an issue or submit a pull request!** 🚀
